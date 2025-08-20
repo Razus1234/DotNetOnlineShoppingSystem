@@ -2,6 +2,11 @@
 
 A comprehensive e-commerce backend solution built with .NET 8 and PostgreSQL following Clean Architecture principles.
 
+## Project Description
+
+This project is designed as a Proof of Concept (PoC) using the Kiro methodology for Specification-Driven Design (SDD). The Kiro approach emphasizes clear, testable specifications that drive the development process, ensuring that business requirements are captured as executable specifications before implementation begins. This results in a robust, maintainable, and well-documented codebase.
+
+
 ## Project Structure
 
 ```
@@ -46,3 +51,4 @@ Once running, visit `https://localhost:7152/swagger` for API documentation.
 ## Health Check
 
 Visit `https://localhost:7152/api/health` to check API health status.
+
